@@ -1,0 +1,11 @@
+QpushButton[text="pushButton_Login"]
+{
+color:white;
+background-color:green;
+}
+
+QpushButton[text="Cancel"]
+{
+color:white;
+background-color:red;
+}
